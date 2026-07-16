@@ -1,0 +1,1 @@
+import type{Metadata}from'next';import'./globals.css';export const metadata:Metadata={title:'Ana Paula Glória | Odontologia & Harmonização',description:'Odontopediatria, odontologia e harmonização orofacial em Parauapebas.'};export default function L({children}:{children:React.ReactNode}){return <html lang="pt-BR"><body>{children}</body></html>}
